@@ -10,14 +10,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/freeCodeCamp/boilerplate-npm.git"
-	},
-	"version": "1.0.0",
-	"description": "free code camp backend tutorial",
-	
-	"license": "ISC",
-	"bugs": {
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
-	},
-	"homepage": "https://github.com/freeCodeCamp/boilerplate-npm#readme"
+		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+	}
 }
